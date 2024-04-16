@@ -74,7 +74,7 @@ font-family: 'poppins', sans-serif;
 .forgot{
     margin: -15px 0 15px;
     font-size: .9em;
-    color: #fff;
+    color: #5DEBD7;
     display: flex;
     justify-content: center;
 }
@@ -82,7 +82,7 @@ font-family: 'poppins', sans-serif;
     margin-right: 3px;
 }
 .forgot label a{
-    color: #fff;
+    color: #5DEBD7;
     text-decoration: none;
 }
 .forgot label a:hover{
