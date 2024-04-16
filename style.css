@@ -82,7 +82,7 @@ font-family: 'poppins', sans-serif;
     margin-right: 3px;
 }
 .forgot label a{
-    color: #5DEBD7;
+    color: #fff;
     text-decoration: none;
 }
 .forgot label a:hover{
@@ -92,7 +92,7 @@ button{
     width: 100%;
     height: 40px;
     border-radius: 40px;
-    background: #5DEBD7;
+    background: #fff;
     border: none;
     outline: none;
     cursor: pointer;
